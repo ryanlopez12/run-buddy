@@ -12,3 +12,5 @@ https://rlopez12.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ryan Lopez
+
+### ©️2019 Run Buddy, Inc
